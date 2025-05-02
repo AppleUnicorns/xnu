@@ -1,3 +1,7 @@
+In those project I will rewrite kernel to Assembly language. As I proofed at my Obj-C binary program using inline ASM give faster results even in simple instructions. Project will be tested on M3 MacBook Air and automated with Mistral AI moodel 
+
+
+
 # What is XNU?
 
 XNU kernel is part of the Darwin operating system for use in macOS and iOS operating systems. XNU is an acronym for X is Not Unix.
